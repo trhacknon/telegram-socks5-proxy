@@ -5,7 +5,7 @@ Telegram socks5 proxy with IP filtering.
 
 ## 如何使用 / How to use
 ```
-git clone https://github.com/Srar/Telegram-Socks5-Proxy.git
+git clone https://github.com/trhacknon/Telegram-Socks5-Proxy.git
 npm install
 node server.js --port 1080
 ```
